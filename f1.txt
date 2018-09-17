@@ -1,0 +1,4 @@
+1. Introduction into version control systems
+2. Introduction into Git
+3. The details of the commit objects
+4. Commit references
