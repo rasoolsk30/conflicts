@@ -9,4 +9,4 @@
 9. Exercise: Setting up Git via the command line
 10. Exercise: Performing a local Git workflow via the command line
 11. Remote repositories
-12. Exercise: Working remote repository
+12. Working with a (local) remote repository
