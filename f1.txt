@@ -18,5 +18,4 @@
 18. Viewing changes with git diff and git show
 19. Using the Git blame command
 20. Commit history of a repository or certain files
-21. git shortlog for release announcements
-22. Stashing changes in Git
+
