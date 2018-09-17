@@ -4,7 +4,7 @@
 4. Commit references
 5. Git tooling
 6. Installation of the Git command line tooling
-7.  configuration
+7. configuration git 
 8. Configure files and directories to ignore
 9. Exercise: Setting up Git via the command line
 10. Exercise: Performing a local Git workflow via the command line
