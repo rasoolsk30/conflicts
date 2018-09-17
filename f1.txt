@@ -10,3 +10,9 @@
 10. Exercise: Performing a local Git workflow via the command line
 11. Remote repositories
 12. Working with a (local) remote repository
+20. Commit history of a repository or certain files
+21. git shortlog for release announcements
+22. Stashing changes in Git
+23. Remove untracked files with git clean
+24. Revert uncommitted changes in tracked files
+25. Using Git reset
