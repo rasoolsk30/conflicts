@@ -10,3 +10,10 @@
 10. Exercise: Performing a local Git workflow via the command line
 11. Remote repositories
 12. Working with a (local) remote repository
+13. Using Branches
+14. Using tags in Git
+15. Using Tags
+16. Comparing changes
+17. Analyzing the commit history with git log
+18. Viewing changes with git diff and git show
+19. Using the Git blame command
